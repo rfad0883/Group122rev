@@ -1,0 +1,331 @@
+Oil_and_Gas_Company_Name;Month;Average_Registration_Time;Average_Update_Profile_Time;Number_of_Certificate_Issued
+Petro Power EP;2023-01-01;3;9;147
+Petro Power EP;2023-02-01;5;2;115
+Petro Power EP;2023-03-01;4;7;108
+Petro Power EP;2023-04-01;5;4;115
+Petro Power EP;2023-05-01;3;5;124
+Petro Power EP;2023-06-01;3;8;90
+Petro Power EP;2023-07-01;5;1;84
+Petro Power EP;2023-08-01;2;5;106
+Petro Power EP;2023-09-01;2;9;121
+Petro Power EP;2023-10-01;2;10;141
+Petro Power EP;2023-11-01;3;2;105
+Energy Source EP;2023-01-01;5;4;225
+Energy Source EP;2023-02-01;4;3;218
+Energy Source EP;2023-03-01;4;4;230
+Energy Source EP;2023-04-01;3;10;210
+Energy Source EP;2023-05-01;4;9;213
+Energy Source EP;2023-06-01;2;6;206
+Energy Source EP;2023-07-01;1;10;201
+Energy Source EP;2023-08-01;4;1;199
+Energy Source EP;2023-09-01;5;1;210
+Energy Source EP;2023-10-01;3;5;214
+Energy Source EP;2023-11-01;4;4;207
+Gas Innovators Ltd.;2023-01-01;1;8;143
+Gas Innovators Ltd.;2023-02-01;1;2;150
+Gas Innovators Ltd.;2023-03-01;4;4;98
+Gas Innovators Ltd.;2023-04-01;3;9;132
+Gas Innovators Ltd.;2023-05-01;1;9;134
+Gas Innovators Ltd.;2023-06-01;2;2;78
+Gas Innovators Ltd.;2023-07-01;5;1;75
+Gas Innovators Ltd.;2023-08-01;5;9;75
+Gas Innovators Ltd.;2023-09-01;3;5;122
+Gas Innovators Ltd.;2023-10-01;5;5;137
+Gas Innovators Ltd.;2023-11-01;1;2;91
+Oil Dynamics Ltd.;2023-01-01;4;4;52
+Oil Dynamics Ltd.;2023-02-01;5;7;60
+Oil Dynamics Ltd.;2023-03-01;2;6;70
+Oil Dynamics Ltd.;2023-04-01;5;10;68
+Oil Dynamics Ltd.;2023-05-01;3;4;57
+Oil Dynamics Ltd.;2023-06-01;5;2;65
+Oil Dynamics Ltd.;2023-07-01;4;2;61
+Oil Dynamics Ltd.;2023-08-01;4;1;51
+Oil Dynamics Ltd.;2023-09-01;4;4;65
+Oil Dynamics Ltd.;2023-10-01;1;5;64
+Oil Dynamics Ltd.;2023-11-01;4;7;55
+Fuel Fusion  Ltd.;2023-01-01;3;3;71
+Fuel Fusion  Ltd.;2023-02-01;2;8;68
+Fuel Fusion  Ltd.;2023-03-01;4;7;77
+Fuel Fusion  Ltd.;2023-04-01;3;3;61
+Fuel Fusion  Ltd.;2023-05-01;3;1;71
+Fuel Fusion  Ltd.;2023-06-01;4;4;73
+Fuel Fusion  Ltd.;2023-07-01;2;1;66
+Fuel Fusion  Ltd.;2023-08-01;3;8;71
+Fuel Fusion  Ltd.;2023-09-01;3;3;78
+Fuel Fusion  Ltd.;2023-10-01;1;6;76
+Fuel Fusion  Ltd.;2023-11-01;1;4;70
+Petro Tech  EP;2023-01-01;4;9;180
+Petro Tech  EP;2023-02-01;4;10;185
+Petro Tech  EP;2023-03-01;2;4;159
+Petro Tech  EP;2023-04-01;5;9;166
+Petro Tech  EP;2023-05-01;1;3;202
+Petro Tech  EP;2023-06-01;5;10;156
+Petro Tech  EP;2023-07-01;5;8;190
+Petro Tech  EP;2023-08-01;2;9;189
+Petro Tech  EP;2023-09-01;1;9;175
+Petro Tech  EP;2023-10-01;1;10;165
+Petro Tech  EP;2023-11-01;1;3;187
+Gas Solutions  Ltd.;2023-01-01;4;2;141
+Gas Solutions  Ltd.;2023-02-01;4;1;139
+Gas Solutions  Ltd.;2023-03-01;3;5;120
+Gas Solutions  Ltd.;2023-04-01;4;10;156
+Gas Solutions  Ltd.;2023-05-01;3;2;149
+Gas Solutions  Ltd.;2023-06-01;5;2;157
+Gas Solutions  Ltd.;2023-07-01;1;5;129
+Gas Solutions  Ltd.;2023-08-01;5;3;134
+Gas Solutions  Ltd.;2023-09-01;5;5;154
+Gas Solutions  Ltd.;2023-10-01;1;9;151
+Gas Solutions  Ltd.;2023-11-01;2;9;125
+Energy Ventures  Ltd.;2023-01-01;2;7;63
+Energy Ventures  Ltd.;2023-02-01;3;2;53
+Energy Ventures  Ltd.;2023-03-01;3;1;68
+Energy Ventures  Ltd.;2023-04-01;4;4;68
+Energy Ventures  Ltd.;2023-05-01;3;10;52
+Energy Ventures  Ltd.;2023-06-01;5;6;76
+Energy Ventures  Ltd.;2023-07-01;2;8;68
+Energy Ventures  Ltd.;2023-08-01;1;5;41
+Energy Ventures  Ltd.;2023-09-01;2;6;55
+Energy Ventures  Ltd.;2023-10-01;3;9;51
+Energy Ventures  Ltd.;2023-11-01;5;9;69
+Oil Quest  Ltd.;2023-01-01;2;5;70
+Oil Quest  Ltd.;2023-02-01;3;7;68
+Oil Quest  Ltd.;2023-03-01;3;7;55
+Oil Quest  Ltd.;2023-04-01;3;10;40
+Oil Quest  Ltd.;2023-05-01;5;3;41
+Oil Quest  Ltd.;2023-06-01;4;3;56
+Oil Quest  Ltd.;2023-07-01;3;9;47
+Oil Quest  Ltd.;2023-08-01;3;10;60
+Oil Quest  Ltd.;2023-09-01;1;6;60
+Oil Quest  Ltd.;2023-10-01;4;3;63
+Oil Quest  Ltd.;2023-11-01;3;9;42
+PetroWave  Ltd.;2023-01-01;5;9;76
+PetroWave  Ltd.;2023-02-01;4;8;99
+PetroWave  Ltd.;2023-03-01;5;3;76
+PetroWave  Ltd.;2023-04-01;5;1;96
+PetroWave  Ltd.;2023-05-01;4;10;105
+PetroWave  Ltd.;2023-06-01;5;7;69
+PetroWave  Ltd.;2023-07-01;1;8;64
+PetroWave  Ltd.;2023-08-01;2;7;84
+PetroWave  Ltd.;2023-09-01;2;5;64
+PetroWave  Ltd.;2023-10-01;1;4;86
+PetroWave  Ltd.;2023-11-01;5;4;78
+Gas Nexus  Ltd.;2023-01-01;2;8;101
+Gas Nexus  Ltd.;2023-02-01;4;9;124
+Gas Nexus  Ltd.;2023-03-01;3;1;116
+Gas Nexus  Ltd.;2023-04-01;5;3;104
+Gas Nexus  Ltd.;2023-05-01;3;2;91
+Gas Nexus  Ltd.;2023-06-01;2;1;136
+Gas Nexus  Ltd.;2023-07-01;3;2;129
+Gas Nexus  Ltd.;2023-08-01;4;2;94
+Gas Nexus  Ltd.;2023-09-01;1;10;134
+Gas Nexus  Ltd.;2023-10-01;4;8;97
+Gas Nexus  Ltd.;2023-11-01;2;7;140
+Fuel Masters  EP;2023-01-01;3;2;144
+Fuel Masters  EP;2023-02-01;2;9;186
+Fuel Masters  EP;2023-03-01;3;1;180
+Fuel Masters  EP;2023-04-01;3;7;129
+Fuel Masters  EP;2023-05-01;3;5;132
+Fuel Masters  EP;2023-06-01;2;6;122
+Fuel Masters  EP;2023-07-01;1;5;129
+Fuel Masters  EP;2023-08-01;2;4;152
+Fuel Masters  EP;2023-09-01;2;6;143
+Fuel Masters  EP;2023-10-01;2;1;128
+Fuel Masters  EP;2023-11-01;4;2;131
+Energy Axis  Ltd.;2023-01-01;5;7;120
+Energy Axis  Ltd.;2023-02-01;4;7;97
+Energy Axis  Ltd.;2023-03-01;4;3;104
+Energy Axis  Ltd.;2023-04-01;3;10;100
+Energy Axis  Ltd.;2023-05-01;2;4;106
+Energy Axis  Ltd.;2023-06-01;2;4;120
+Energy Axis  Ltd.;2023-07-01;2;8;108
+Energy Axis  Ltd.;2023-08-01;3;3;103
+Energy Axis  Ltd.;2023-09-01;1;4;91
+Energy Axis  Ltd.;2023-10-01;3;10;106
+Energy Axis  Ltd.;2023-11-01;2;6;108
+Oil Dynamics  Ltd.;2023-01-01;5;7;58
+Oil Dynamics  Ltd.;2023-02-01;4;4;49
+Oil Dynamics  Ltd.;2023-03-01;4;9;57
+Oil Dynamics  Ltd.;2023-04-01;2;10;59
+Oil Dynamics  Ltd.;2023-05-01;4;7;41
+Oil Dynamics  Ltd.;2023-06-01;3;5;55
+Oil Dynamics  Ltd.;2023-07-01;1;4;57
+Oil Dynamics  Ltd.;2023-08-01;2;10;44
+Oil Dynamics  Ltd.;2023-09-01;5;7;56
+Oil Dynamics  Ltd.;2023-10-01;1;8;45
+Oil Dynamics  Ltd.;2023-11-01;5;2;52
+PetroPulse EP;2023-01-01;4;1;143
+PetroPulse EP;2023-02-01;2;8;150
+PetroPulse EP;2023-03-01;5;7;133
+PetroPulse EP;2023-04-01;3;8;120
+PetroPulse EP;2023-05-01;1;8;138
+PetroPulse EP;2023-06-01;1;7;121
+PetroPulse EP;2023-07-01;2;10;148
+PetroPulse EP;2023-08-01;5;2;141
+PetroPulse EP;2023-09-01;1;2;133
+PetroPulse EP;2023-10-01;2;1;138
+PetroPulse EP;2023-11-01;3;1;137
+GasMax  EP;2023-01-01;2;2;159
+GasMax  EP;2023-02-01;5;2;155
+GasMax  EP;2023-03-01;1;3;147
+GasMax  EP;2023-04-01;1;5;142
+GasMax  EP;2023-05-01;5;5;151
+GasMax  EP;2023-06-01;1;1;164
+GasMax  EP;2023-07-01;1;2;168
+GasMax  EP;2023-08-01;3;1;143
+GasMax  EP;2023-09-01;2;1;166
+GasMax  EP;2023-10-01;3;3;147
+GasMax  EP;2023-11-01;1;7;164
+FuelCraft  Ltd.;2023-01-01;2;6;64
+FuelCraft  Ltd.;2023-02-01;4;4;58
+FuelCraft  Ltd.;2023-03-01;3;10;78
+FuelCraft  Ltd.;2023-04-01;5;10;41
+FuelCraft  Ltd.;2023-05-01;1;4;52
+FuelCraft  Ltd.;2023-06-01;4;10;52
+FuelCraft  Ltd.;2023-07-01;5;4;51
+FuelCraft  Ltd.;2023-08-01;2;7;41
+FuelCraft  Ltd.;2023-09-01;2;4;55
+FuelCraft  Ltd.;2023-10-01;3;7;44
+FuelCraft  Ltd.;2023-11-01;5;2;47
+Energy Edge EP;2023-01-01;1;8;113
+Energy Edge EP;2023-02-01;4;6;98
+Energy Edge EP;2023-03-01;2;5;116
+Energy Edge EP;2023-04-01;1;7;111
+Energy Edge EP;2023-05-01;1;8;91
+Energy Edge EP;2023-06-01;4;10;89
+Energy Edge EP;2023-07-01;2;1;108
+Energy Edge EP;2023-08-01;3;1;80
+Energy Edge EP;2023-09-01;2;6;108
+Energy Edge EP;2023-10-01;2;5;102
+Energy Edge EP;2023-11-01;5;8;82
+OilLink  Ltd.  Ltd.;2023-01-01;4;6;53
+OilLink  Ltd.  Ltd.;2023-02-01;3;3;60
+OilLink  Ltd.  Ltd.;2023-03-01;5;8;55
+OilLink  Ltd.  Ltd.;2023-04-01;1;2;55
+OilLink  Ltd.  Ltd.;2023-05-01;3;3;58
+OilLink  Ltd.  Ltd.;2023-06-01;1;8;43
+OilLink  Ltd.  Ltd.;2023-07-01;4;10;56
+OilLink  Ltd.  Ltd.;2023-08-01;1;5;43
+OilLink  Ltd.  Ltd.;2023-09-01;2;9;48
+OilLink  Ltd.  Ltd.;2023-10-01;1;9;43
+OilLink  Ltd.  Ltd.;2023-11-01;1;3;57
+PetroCrest  Ltd.;2023-01-01;2;2;26
+PetroCrest  Ltd.;2023-02-01;3;8;32
+PetroCrest  Ltd.;2023-03-01;1;9;40
+PetroCrest  Ltd.;2023-04-01;4;10;20
+PetroCrest  Ltd.;2023-05-01;2;2;21
+PetroCrest  Ltd.;2023-06-01;3;1;21
+PetroCrest  Ltd.;2023-07-01;5;2;22
+PetroCrest  Ltd.;2023-08-01;3;10;27
+PetroCrest  Ltd.;2023-09-01;2;2;21
+PetroCrest  Ltd.;2023-10-01;4;8;32
+PetroCrest  Ltd.;2023-11-01;3;4;36
+Gas Nexus Ltd.;2023-01-01;4;10;89
+Gas Nexus Ltd.;2023-02-01;4;7;62
+Gas Nexus Ltd.;2023-03-01;2;4;82
+Gas Nexus Ltd.;2023-04-01;4;7;52
+Gas Nexus Ltd.;2023-05-01;3;9;84
+Gas Nexus Ltd.;2023-06-01;5;3;42
+Gas Nexus Ltd.;2023-07-01;1;7;80
+Gas Nexus Ltd.;2023-08-01;1;2;48
+Gas Nexus Ltd.;2023-09-01;4;1;61
+Gas Nexus Ltd.;2023-10-01;3;5;89
+Gas Nexus Ltd.;2023-11-01;1;4;66
+FuelGenius EP;2023-01-01;1;6;122
+FuelGenius EP;2023-02-01;1;7;136
+FuelGenius EP;2023-03-01;3;9;138
+FuelGenius EP;2023-04-01;5;6;80
+FuelGenius EP;2023-05-01;5;8;139
+FuelGenius EP;2023-06-01;1;2;87
+FuelGenius EP;2023-07-01;5;9;119
+FuelGenius EP;2023-08-01;3;6;89
+FuelGenius EP;2023-09-01;4;2;100
+FuelGenius EP;2023-10-01;3;10;116
+FuelGenius EP;2023-11-01;3;6;101
+Energy Sphere  Ltd.;2023-01-01;1;2;24
+Energy Sphere  Ltd.;2023-02-01;4;5;27
+Energy Sphere  Ltd.;2023-03-01;3;3;32
+Energy Sphere  Ltd.;2023-04-01;5;4;26
+Energy Sphere  Ltd.;2023-05-01;5;1;40
+Energy Sphere  Ltd.;2023-06-01;4;5;28
+Energy Sphere  Ltd.;2023-07-01;3;7;32
+Energy Sphere  Ltd.;2023-08-01;4;1;40
+Energy Sphere  Ltd.;2023-09-01;3;1;39
+Energy Sphere  Ltd.;2023-10-01;3;10;20
+Energy Sphere  Ltd.;2023-11-01;5;6;21
+Oil Optics Ltd.;2023-01-01;4;3;25
+Oil Optics Ltd.;2023-02-01;1;4;28
+Oil Optics Ltd.;2023-03-01;3;9;37
+Oil Optics Ltd.;2023-04-01;5;8;38
+Oil Optics Ltd.;2023-05-01;2;7;24
+Oil Optics Ltd.;2023-06-01;2;7;49
+Oil Optics Ltd.;2023-07-01;1;8;40
+Oil Optics Ltd.;2023-08-01;1;6;48
+Oil Optics Ltd.;2023-09-01;4;9;36
+Oil Optics Ltd.;2023-10-01;5;7;46
+Oil Optics Ltd.;2023-11-01;5;1;35
+PetroWise Ltd. ;2023-01-01;5;3;92
+PetroWise Ltd. ;2023-02-01;3;7;108
+PetroWise Ltd. ;2023-03-01;5;9;98
+PetroWise Ltd. ;2023-04-01;4;1;117
+PetroWise Ltd. ;2023-05-01;5;2;109
+PetroWise Ltd. ;2023-06-01;5;7;107
+PetroWise Ltd. ;2023-07-01;3;4;86
+PetroWise Ltd. ;2023-08-01;4;3;85
+PetroWise Ltd. ;2023-09-01;1;1;111
+PetroWise Ltd. ;2023-10-01;4;9;96
+PetroWise Ltd. ;2023-11-01;2;6;93
+PetroWise Ltd. ;2023-01-01;1;4;43
+PetroWise Ltd. ;2023-02-01;2;10;48
+PetroWise Ltd. ;2023-03-01;1;2;41
+PetroWise Ltd. ;2023-04-01;2;6;37
+PetroWise Ltd. ;2023-05-01;4;4;46
+PetroWise Ltd. ;2023-06-01;3;3;40
+PetroWise Ltd. ;2023-07-01;2;1;31
+PetroWise Ltd. ;2023-08-01;2;1;33
+PetroWise Ltd. ;2023-09-01;2;6;41
+PetroWise Ltd. ;2023-10-01;2;9;50
+PetroWise Ltd. ;2023-11-01;4;10;39
+PetroWise Ltd. ;2023-01-01;4;2;22
+PetroWise Ltd. ;2023-02-01;3;10;30
+PetroWise Ltd. ;2023-03-01;5;9;23
+PetroWise Ltd. ;2023-04-01;4;8;24
+PetroWise Ltd. ;2023-05-01;2;1;30
+PetroWise Ltd. ;2023-06-01;2;10;20
+PetroWise Ltd. ;2023-07-01;3;5;27
+PetroWise Ltd. ;2023-08-01;5;1;24
+PetroWise Ltd. ;2023-09-01;1;9;29
+PetroWise Ltd. ;2023-10-01;5;6;23
+PetroWise Ltd. ;2023-11-01;5;6;27
+Energy Pulse EP;2023-01-01;3;2;109
+Energy Pulse EP;2023-02-01;4;6;93
+Energy Pulse EP;2023-03-01;4;4;118
+Energy Pulse EP;2023-04-01;3;9;119
+Energy Pulse EP;2023-05-01;3;8;108
+Energy Pulse EP;2023-06-01;4;5;93
+Energy Pulse EP;2023-07-01;5;3;111
+Energy Pulse EP;2023-08-01;1;4;106
+Energy Pulse EP;2023-09-01;1;6;93
+Energy Pulse EP;2023-10-01;1;8;113
+Energy Pulse EP;2023-11-01;4;9;100
+Oil Innovators  Ltd.;2023-01-01;3;4;137
+Oil Innovators  Ltd.;2023-02-01;3;5;125
+Oil Innovators  Ltd.;2023-03-01;4;6;136
+Oil Innovators  Ltd.;2023-04-01;3;1;115
+Oil Innovators  Ltd.;2023-05-01;5;5;91
+Oil Innovators  Ltd.;2023-06-01;2;4;93
+Oil Innovators  Ltd.;2023-07-01;5;1;123
+Oil Innovators  Ltd.;2023-08-01;4;4;127
+Oil Innovators  Ltd.;2023-09-01;5;7;125
+Oil Innovators  Ltd.;2023-10-01;1;4;137
+Oil Innovators  Ltd.;2023-11-01;3;3;124
+PetroSynergy  Ltd.;2023-01-01;1;6;57
+PetroSynergy  Ltd.;2023-02-01;2;3;53
+PetroSynergy  Ltd.;2023-03-01;2;9;42
+PetroSynergy  Ltd.;2023-04-01;3;3;54
+PetroSynergy  Ltd.;2023-05-01;1;3;43
+PetroSynergy  Ltd.;2023-06-01;5;6;49
+PetroSynergy  Ltd.;2023-07-01;2;10;48
+PetroSynergy  Ltd.;2023-08-01;1;7;57
+PetroSynergy  Ltd.;2023-09-01;5;6;58
+PetroSynergy  Ltd.;2023-10-01;1;5;46
+PetroSynergy  Ltd.;2023-11-01;4;3;42
